@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    display: grid;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+aside {
+    background-color: aqua;
+}
+
+nav {
+    background-color: red;
+}
+
+footer {
+    background-color: blueviolet;
+}
+
+article {
+    background-color: blue;
+}
